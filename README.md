@@ -1,0 +1,4 @@
+badea
+=====
+
+ceva moca
